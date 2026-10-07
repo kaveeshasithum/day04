@@ -1,4 +1,4 @@
-       h1{text-align: center;
+     /*  h1{text-align: center;
         background-color: #11c9c0;
         color: rgb(235, 32, 235);
     }
@@ -15,4 +15,13 @@
     .textAlign{
         text-align: justify;
       
+    }*/
+    .odd{
+        background-color: #11c9c0;
+        color: rgb(235, 32, 235);
+    }
+    .even{
+        background-color: blueviolet;
+        color: chartreuse;
+
     }
