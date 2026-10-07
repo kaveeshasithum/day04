@@ -16,6 +16,7 @@
         text-align: justify;
       
     }*/
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Libre+Caslon+Condensed:ital,wght@0,400..700;1,400..700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
     .odd{
         background-color: #11c9c0;
         color: rgb(235, 32, 235);
@@ -32,3 +33,12 @@
     }
     *{ background-color: black
         ;}
+    .hellotext {
+            background-color: #050707;
+            color:darkgreen;
+            text-align: center;
+            padding: 20px;
+            border:5px solid darkgreen;
+
+ 
+        }
